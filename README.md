@@ -8,3 +8,7 @@ Schedule:
 3. Physics
 4. Spanish
 5. SEP
+6. English
+7. Advanced Algrebra and Trig
+8. LUNCH
+
