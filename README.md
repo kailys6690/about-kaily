@@ -7,7 +7,7 @@ My birthday is on Sepetmber 11, 2000. I am 16 years old and a Junior in High sch
 2. US History
 3. Physics
 4. Spanish
-5. SEP
+5. _SEP_
 6. English
 7. Advanced Algrebra and Trig
 8. LUNCH
