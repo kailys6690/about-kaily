@@ -5,6 +5,12 @@ My Email Adress: [kailys6690@hstat.org](https://mail.google.com/mail/u/0/#inbox?
 
 My birthday is on Sepetmber 11, 2000.   I am 16 years old and a Junior in High school. This is going to be my 3rd year in the Software Engineering Program and I have a feeling that this year will be my best year in this program.   I have been staying focus and on task that this class has become my favorite class out of my **_entire_** schedule.  
 
+###Goals:
++ Get a 90 average
+- specifiaclly get 90's in all classes to achieve that 90 average in my first marking period
++ Participate more often in all classes at least once a day
++ **DON'T DO SCHOOL WORK IN THE LAST MINUTE**
+
 ###Schedule:  
 1. Gym
 2. US History
@@ -13,4 +19,4 @@ My birthday is on Sepetmber 11, 2000.   I am 16 years old and a Junior in High s
 5. _SEP_
 6. English
 7. Advanced Algrebra and Trig
-8.LUNCH
+8. LUNCH
