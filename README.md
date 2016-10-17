@@ -9,7 +9,7 @@ My birthday is on Sepetmber 11, 2000.   I am 16 years old and a Junior in High s
 + Get a 90 average
 - specifiaclly get 90's in all classes to achieve that 90 average in my first marking period
 + Participate more often in all classes at least once a day
-+ **DON'T DO SCHOOL WORK IN THE LAST MINUTE**
++ **DO NOT DO SCHOOL WORK IN THE LAST MINUTE**
 
 ###Schedule:  
 1. Gym
